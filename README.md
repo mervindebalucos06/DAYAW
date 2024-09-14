@@ -1,7 +1,3 @@
-Here's a **README** file that explains the HTML code you provided:
-
----
-
 # Dayaw - Filipino Art & Culture Website
 
 ## Overview
